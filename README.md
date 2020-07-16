@@ -1,5 +1,5 @@
 ## DATA ANALYSIS ON SOUTH KOREA COVID-19 DATA SET AND DISPLAYING THE RESULTS IN  STATIC WEB PAGE USING FLASK FRAMEWORK
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)  ![Numpy](https://img.shields.io/badge/Library-Numpy-red.svg) ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow.svg) 
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)  ![Numpy](https://img.shields.io/badge/Library-Numpy-red.svg) ![Pandas](https://img.shields.io/badge/Library-Pandas-yellow.svg) ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue.svg)
 ![Flask](https://img.shields.io/badge/Library-Flask-orange.svg)
 
 ## OBSERVATIONS FROM DATA ANALYSIS
